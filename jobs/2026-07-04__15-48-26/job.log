@@ -1,3 +1,0 @@
-Building Docker image harbor-prebuilt:harbor-docker-egress-control-sidecar--38d5fad35d5daec4 from C:\Users\piyus\AppData\Roaming\uv\tools\harbor\Lib\site-packages\harbor\environments\docker\harbor-docker-egress-control-sidecar using C:\Users\piyus\AppData\Roaming\uv\tools\harbor\Lib\site-packages\harbor\environments\docker\harbor-docker-egress-control-sidecar\Dockerfile at 2026-07-04 10:18:48.894141+00:00
-Skipping image OS validation for hb__df78c4bd78a410425cd813646079ffa2: docker inspect returned 1
-Collecting main service artifacts
